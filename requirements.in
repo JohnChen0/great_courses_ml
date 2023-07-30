@@ -1,3 +1,9 @@
+# gym provides an API for emulating various games, including Blackjack.
+# It has been replaced by gymnasium, with last version of gym being 0.26.2.
+# However, both gymnasium and latest version of gym have a Blackjack API
+# that is incompatible with the course code, so we use the version of gym
+# shown in the course's requirements.txt.
+gym==0.17.2
 jupyter==1.0.0
 keras==2.13.1
 matplotlib==3.7.2
