@@ -6,7 +6,9 @@
 gym==0.17.2
 jupyter==1.0.0
 keras==2.13.1
+librosa==0.10.1
 matplotlib==3.7.2
+numba==0.58.1
 # latest numpy is 1.25.0, but tensorflow requires a lower version
 numpy==1.24.3
 pandas==2.0.3
