@@ -1,3 +1,5 @@
+# This has been tested with Python 3.10.11 (64-bit) on Windows 11.
+
 # gym provides an API for emulating various games, including Blackjack.
 # It has been replaced by gymnasium, with last version of gym being 0.26.2.
 # However, both gymnasium and latest version of gym have a Blackjack API
